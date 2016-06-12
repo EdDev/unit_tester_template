@@ -2,7 +2,7 @@
 #
 #
 
-#	When all source files in a folder are under tests, it is prefered to add the folder instead of adding individual source files.
+#	When all source files in a folder are under tests, it is preferred to add the folder instead of adding individual source files.
 SRC_DIRS = \
 #	$(PRODUCTION_SOURCES)/source_folder\
 #	<Add here the folders that contain code under test>

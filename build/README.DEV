@@ -61,6 +61,6 @@
 #
 #   CPPUTEST_CXXFLAGS   - flags for the C++ compiler
 #   CPPUTEST_CPPFLAGS   - flags for the C++ AND C compiler
-#   CPPUTEST_CFLAGS     - C complier
+#   CPPUTEST_CFLAGS     - C compiler
 #   CPPUTEST_LDFLAGS    - Linker flags
 ###############################################################################
